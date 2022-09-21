@@ -8,7 +8,7 @@
 tic
 
 %data input
-I = imread('pallasskittygray.tiff');
+I = imread('pallass.tiff');
 I=im2double(I);
 [x,y] = size(I);
 
