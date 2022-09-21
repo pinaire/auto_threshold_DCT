@@ -1,3 +1,3 @@
 # auto_threshold_DCT
 
-# denoises data with discrete cosign transform 
+# the goal of this repository is to provide a discrete cosign transform algorithm that denoises data with an automatic estimated frequency threshold
